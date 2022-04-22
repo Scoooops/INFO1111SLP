@@ -1,0 +1,14 @@
+---
+output: pdf_document
+---
+Hello,  
+This will be my submission for my level 1 artifact - my Jira domain.  
+Since access to the domain requires an Atlassian account, I will be presenting my artifact through a series of photos instead (although I will link the domain down below in case you would like to follow along).
+Please refer to the pdf document titled “Level 1 Artifact” to see the photos and description of my Level 1 artifact.  
+\
+\
+\
+\
+Link to [**my domain**](https://id.atlassian.com/invite/p/jira-software?id=HGovfT3vT3qDWTCwjSU8AA)  
+\
+Link to [**my github repository**](https://github.sydney.edu.au/cmil2832/SLP.git)
